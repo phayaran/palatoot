@@ -1,1 +1,1 @@
-Distributed System Design Patterns.
+Distributed System Design Pattern Implementations.
